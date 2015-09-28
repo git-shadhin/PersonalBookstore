@@ -1,0 +1,5 @@
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Model\bin\Debug\PersonalBookstore.Model.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Model\bin\Debug\PersonalBookstore.Model.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Model\obj\Debug\PersonalBookstore.Model.csprojResolveAssemblyReference.cache
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Model\obj\Debug\PersonalBookstore.Model.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Model\obj\Debug\PersonalBookstore.Model.pdb

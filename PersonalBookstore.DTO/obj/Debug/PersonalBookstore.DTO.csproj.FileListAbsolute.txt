@@ -1,0 +1,5 @@
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.DTO\obj\Debug\PersonalBookstore.DTO.csprojResolveAssemblyReference.cache
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.DTO\bin\Debug\PersonalBookstore.DTO.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.DTO\bin\Debug\PersonalBookstore.DTO.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.DTO\obj\Debug\PersonalBookstore.DTO.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.DTO\obj\Debug\PersonalBookstore.DTO.pdb

@@ -1,0 +1,15 @@
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.Service.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.Service.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\obj\Debug\PersonalBookstore.Service.csprojResolveAssemblyReference.cache
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\obj\Debug\PersonalBookstore.Service.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\obj\Debug\PersonalBookstore.Service.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\AutoMapper.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.Data.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.DTO.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.Model.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\EntityFramework.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.Data.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.DTO.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\PersonalBookstore.Model.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\AutoMapper.xml
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Service\bin\Debug\EntityFramework.xml

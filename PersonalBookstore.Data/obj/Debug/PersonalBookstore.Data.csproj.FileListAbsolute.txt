@@ -1,0 +1,12 @@
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\PersonalBookstore.Data.dll.config
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\PersonalBookstore.Data.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\PersonalBookstore.Data.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\EntityFramework.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\PersonalBookstore.Model.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\PersonalBookstore.Model.pdb
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\EntityFramework.xml
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\obj\Debug\PersonalBookstore.Data.csprojResolveAssemblyReference.cache
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\obj\Debug\PersonalBookstore.Data.dll
+D:\Test Project\AngularJS\PersonalBookStore\PersonalBookstore\PersonalBookstore.Data\obj\Debug\PersonalBookstore.Data.pdb
